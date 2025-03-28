@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Suplements</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+<body>
+    <div>
+    <h2>Principais Suplementos e Seus Efeitos</h2>
+    
+    <h3>1. Whey Protein</h3>
+    <p><strong>Benefícios:</strong> Acelera a recuperação muscular, melhora o desempenho esportivo e ajuda no ganho de massa magra.</p>
+    <p><strong>Possíveis efeitos colaterais:</strong> Em excesso, pode causar problemas digestivos como inchaço, gases e diarreia, principalmente em pessoas com intolerância à lactose.</p>
+    
+    <h3>2. Creatina</h3>
+    <p><strong>Benefícios:</strong> Aumenta a força e resistência muscular, melhora a recuperação pós-treino e contribui para o ganho de massa muscular.</p>
+    <p><strong>Possíveis efeitos colaterais:</strong> Pode causar retenção de líquidos e desconforto gastrointestinal em algumas pessoas.</p>
+    
+    <h3>3. Ômega-3</h3>
+    <p><strong>Benefícios:</strong> Melhora a saúde do coração, reduz a inflamação e favorece a função cognitiva.</p>
+    <p><strong>Possíveis efeitos colaterais:</strong> Pode causar desconforto estomacal e aumentar o risco de sangramentos em altas doses.</p>
+    
+    <h3>4. Vitamina D</h3>
+    <p><strong>Benefícios:</strong> Fortalece os ossos, melhora a função imunológica e auxilia na saúde mental.</p>
+    <p><strong>Possíveis efeitos colaterais:</strong> O excesso pode levar à toxicidade, causando náuseas, fraqueza e problemas renais.</p>
+    
+    <h3>5. BCAA (Aminoácidos de Cadeia Ramificada)</h3>
+    <p><strong>Benefícios:</strong> Reduzem o cansaço muscular, auxiliam na recuperação pós-exercício e preservam a massa magra.</p>
+    <p><strong>Possíveis efeitos colaterais:</strong> Em altas doses, podem causar problemas gastrointestinais.</p>
+    
+    <h3>6. Probióticos</h3>
+    <p><strong>Benefícios:</strong> Melhoram a saúde intestinal, aumentam a imunidade e ajudam na absorção de nutrientes.</p>
+    <p><strong>Possíveis efeitos colaterais:</strong> No início do uso, podem causar inchaço e gases até que o organismo se adapte.</p>
+    
+    <h2>Considerações Finais</h2>
+    <p>Os suplementos podem ser grandes aliados da saúde e do desempenho físico, mas seu uso deve ser orientado e equilibrado. O excesso de determinados nutrientes pode ser prejudicial, e cada organismo responde de forma diferente a cada substância. Para garantir segurança e eficácia, recomenda-se buscar orientação de um nutricionista ou médico antes de iniciar o uso de qualquer suplemento.</p>
+</div>
+
+</body>
+</html>
